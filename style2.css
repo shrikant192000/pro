@@ -1,0 +1,34 @@
+.main{
+    border: 2px solid black;
+    width: 40%;
+    display: flex;
+    /* text-decoration-thickness: 100px; */
+    /* vertical-align: centre; */
+    /* align-items: center; */
+    /* align-self: center; */
+    flex-direction: column;
+    /* justify-content: center; */
+    /* margin-right: 10px; */
+    position: relative;
+    left: 300px;
+    text-align: center;
+    padding: 10px;
+
+}
+#heading1{
+    size: 10px;
+}
+.text{
+    font size: 30px solid ;
+text-decoration-thicknees:30px;
+
+    
+
+}
+.first.text{
+    height: 20px;
+    width: 2 rem;
+}
+.thing{
+    top: 20px;
+}
